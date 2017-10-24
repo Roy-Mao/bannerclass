@@ -241,4 +241,3 @@ Please contact me if you have any concerns using this class
 Special thanks to mercuri/souzoh for the skill set test.
 
 * [mou](http://mouapp.com/)
-* [mercuri/souzoh](https://www.souzoh.com/jp/)
