@@ -1,4 +1,3 @@
-![Imgur](https://i.imgur.com/o5ZBNMN.png)
 ## About this project
 Skill set interview (mercari souzoh):
 
