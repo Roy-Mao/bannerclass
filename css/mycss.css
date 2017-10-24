@@ -1,0 +1,51 @@
+#inner
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right:30px;
+	text-align: center;
+}
+
+#cimg
+{
+	display: block;
+	margin: 0 auto;
+}
+
+#datetimepicker1,
+#datetimepicker2
+{
+	max-width: 300px;
+}
+
+#datetimepicker1,
+#datetimepicker2
+{
+	margin:auto;
+}
+
+.row1
+{
+	margin-top: 35px;
+}
+
+#intargetip
+{
+	display: none;
+}
+
+#redir_link
+{
+	min-width: 300px;
+}
+
+.error
+{
+	color:red;
+}
+
+table,tr,td,th
+{
+	text-align:center;
+}
